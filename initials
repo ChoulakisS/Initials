@@ -1,0 +1,14 @@
+#Stelios Choul
+#Fun fact: I'm tall
+
+print(
+  """
+  SSS    CCC
+ S   S  C   C
+ S      C
+  SSS   C
+     S  C
+ S   S  C   C
+  SSS    CCC
+
+""")
